@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on stack.py
-- 🌱 I’m currently learning AWS
+- 🔭 I’m currently working on any_moa bot
+- 🌱 I’m currently learning Gen AI
 - 💬 Ask me about anything!
 - 📫 How to reach me: alex_buz@yahoo.com
 - 😄 Pronouns: he/him
